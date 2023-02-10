@@ -1,0 +1,55 @@
+
+death_large_boss.sprite.png
+size: 1992,863
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow01
+  rotate: false
+  xy: 2, 2
+  size: 939, 859
+  orig: 939, 859
+  offset: 0, 0
+  index: -1
+glow02
+  rotate: false
+  xy: 943, 137
+  size: 724, 724
+  orig: 724, 724
+  offset: 0, 0
+  index: -1
+ray01
+  rotate: false
+  xy: 1863, 367
+  size: 12, 172
+  orig: 12, 172
+  offset: 0, 0
+  index: -1
+ray02
+  rotate: false
+  xy: 1669, 140
+  size: 14, 171
+  orig: 14, 171
+  offset: 0, 0
+  index: -1
+ray03
+  rotate: true
+  xy: 943, 121
+  size: 14, 221
+  orig: 14, 221
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 1669, 541
+  size: 321, 320
+  orig: 321, 320
+  offset: 0, 0
+  index: -1
+skull
+  rotate: false
+  xy: 1669, 313
+  size: 192, 226
+  orig: 192, 226
+  offset: 0, 0
+  index: -1

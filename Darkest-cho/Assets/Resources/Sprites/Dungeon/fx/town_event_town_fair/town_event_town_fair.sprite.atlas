@@ -1,0 +1,34 @@
+
+town_event_town_fair.sprite.png
+size: 892,400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow01
+  rotate: false
+  xy: 697, 201
+  size: 193, 197
+  orig: 193, 197
+  offset: 0, 0
+  index: -1
+glow03
+  rotate: false
+  xy: 697, 201
+  size: 193, 197
+  orig: 193, 197
+  offset: 0, 0
+  index: -1
+glow02
+  rotate: false
+  xy: 697, 201
+  size: 193, 197
+  orig: 193, 197
+  offset: 0, 0
+  index: -1
+town_event
+  rotate: true
+  xy: 2, 2
+  size: 396, 693
+  orig: 396, 693
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+purchase_district.sprite.png
+size: 955,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bottom_dust
+  rotate: true
+  xy: 2, 13
+  size: 254, 336
+  orig: 254, 336
+  offset: 0, 0
+  index: -1
+brick01
+  rotate: true
+  xy: 903, 66
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+brick02
+  rotate: true
+  xy: 939, 83
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+brick03
+  rotate: true
+  xy: 903, 179
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+brick04
+  rotate: true
+  xy: 903, 224
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+brick05
+  rotate: false
+  xy: 939, 67
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+brick06
+  rotate: false
+  xy: 903, 101
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+brick07
+  rotate: true
+  xy: 13, 2
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+brick08
+  rotate: false
+  xy: 903, 140
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+brick09
+  rotate: true
+  xy: 923, 33
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+brick10
+  rotate: false
+  xy: 903, 46
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+brick11
+  rotate: false
+  xy: 923, 53
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+brick12
+  rotate: true
+  xy: 939, 50
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+brick13
+  rotate: false
+  xy: 2, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+left_dust
+  rotate: true
+  xy: 583, 13
+  size: 254, 158
+  orig: 254, 158
+  offset: 0, 0
+  index: -1
+right_dust
+  rotate: true
+  xy: 743, 13
+  size: 254, 158
+  orig: 254, 158
+  offset: 0, 0
+  index: -1
+top_dust
+  rotate: true
+  xy: 340, 6
+  size: 261, 241
+  orig: 261, 241
+  offset: 0, 0
+  index: -1

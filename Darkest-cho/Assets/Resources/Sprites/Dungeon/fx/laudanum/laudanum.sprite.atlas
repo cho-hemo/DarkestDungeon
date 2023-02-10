@@ -1,0 +1,62 @@
+
+laudanum.sprite.png
+size: 389,283
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bottle
+  rotate: false
+  xy: 2, 70
+  size: 87, 211
+  orig: 87, 211
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 209, 3
+  size: 92, 115
+  orig: 92, 115
+  offset: 0, 0
+  index: -1
+rim_light_bottle
+  rotate: false
+  xy: 91, 97
+  size: 91, 184
+  orig: 91, 184
+  offset: 0, 0
+  index: -1
+rim_light_stopper
+  rotate: false
+  xy: 47, 26
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 209, 120
+  size: 178, 161
+  orig: 178, 161
+  offset: 0, 0
+  index: -1
+splash_black
+  rotate: false
+  xy: 303, 26
+  size: 80, 92
+  orig: 80, 92
+  offset: 0, 0
+  index: -1
+splash_white
+  rotate: true
+  xy: 91, 2
+  size: 93, 116
+  orig: 93, 116
+  offset: 0, 0
+  index: -1
+stopper
+  rotate: false
+  xy: 2, 24
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1

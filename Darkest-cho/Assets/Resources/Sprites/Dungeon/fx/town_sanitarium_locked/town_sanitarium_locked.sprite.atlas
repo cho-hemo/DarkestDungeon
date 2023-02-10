@@ -1,0 +1,20 @@
+
+town_sanitarium_locked.sprite.png
+size: 1437,970
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 769, 85
+  size: 666, 883
+  orig: 666, 883
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 2, 2
+  size: 765, 966
+  orig: 765, 966
+  offset: 0, 0
+  index: -1

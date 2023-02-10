@@ -1,0 +1,20 @@
+
+town_event_the_plague.sprite.png
+size: 1005,375
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plague_doctors
+  rotate: false
+  xy: 474, 116
+  size: 529, 257
+  orig: 529, 257
+  offset: 0, 0
+  index: -1
+stench
+  rotate: true
+  xy: 2, 2
+  size: 371, 470
+  orig: 371, 470
+  offset: 0, 0
+  index: -1

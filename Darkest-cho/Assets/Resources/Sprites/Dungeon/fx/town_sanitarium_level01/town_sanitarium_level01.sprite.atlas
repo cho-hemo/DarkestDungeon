@@ -1,0 +1,48 @@
+
+town_sanitarium_level01.sprite.png
+size: 1854,768
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: true
+  xy: 969, 100
+  size: 666, 883
+  orig: 666, 883
+  offset: 0, 0
+  index: -1
+idle
+  rotate: true
+  xy: 2, 2
+  size: 764, 965
+  orig: 764, 965
+  offset: 0, 0
+  index: -1
+light_first_floor_left
+  rotate: false
+  xy: 969, 10
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+light_first_floor_right
+  rotate: false
+  xy: 969, 10
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+light_first_floor_middle
+  rotate: false
+  xy: 969, 10
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+light_second_floor
+  rotate: false
+  xy: 969, 10
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1

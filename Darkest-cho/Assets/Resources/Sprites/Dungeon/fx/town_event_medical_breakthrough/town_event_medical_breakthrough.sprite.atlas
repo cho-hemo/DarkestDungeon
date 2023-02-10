@@ -1,0 +1,13 @@
+
+town_event_medical_breakthrough.sprite.png
+size: 337,339
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+town_event
+  rotate: false
+  xy: 2, 2
+  size: 333, 335
+  orig: 333, 335
+  offset: 0, 0
+  index: -1

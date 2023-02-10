@@ -1,0 +1,13 @@
+
+town_event_rats_among_us.sprite.png
+size: 285,255
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+town_event
+  rotate: false
+  xy: 2, 2
+  size: 281, 251
+  orig: 281, 251
+  offset: 0, 0
+  index: -1

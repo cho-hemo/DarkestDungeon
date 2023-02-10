@@ -1,0 +1,13 @@
+
+town_event_bonus_recruits.sprite.png
+size: 661,290
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+town_event
+  rotate: false
+  xy: 2, 2
+  size: 657, 286
+  orig: 657, 286
+  offset: 0, 0
+  index: -1

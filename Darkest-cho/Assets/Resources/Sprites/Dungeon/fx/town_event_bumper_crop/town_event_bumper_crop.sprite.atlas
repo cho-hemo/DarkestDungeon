@@ -1,0 +1,13 @@
+
+town_event_bumper_crop.sprite.png
+size: 486,283
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+town_event
+  rotate: false
+  xy: 2, 2
+  size: 482, 279
+  orig: 482, 279
+  offset: 0, 0
+  index: -1

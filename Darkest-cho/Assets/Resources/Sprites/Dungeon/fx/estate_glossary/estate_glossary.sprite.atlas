@@ -1,0 +1,62 @@
+
+estate_glossary.sprite.png
+size: 112,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+book_closed
+  rotate: true
+  xy: 2, 130
+  size: 100, 108
+  orig: 100, 108
+  offset: 0, 0
+  index: -1
+book_open
+  rotate: true
+  xy: 2, 2
+  size: 126, 104
+  orig: 126, 104
+  offset: 0, 0
+  index: -1
+sparkle01
+  rotate: false
+  xy: 85, 251
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+sparkle02
+  rotate: true
+  xy: 43, 252
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+sparkle03
+  rotate: true
+  xy: 2, 253
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+sparkle04
+  rotate: true
+  xy: 64, 252
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+sparkle05
+  rotate: true
+  xy: 23, 253
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+sparkle06
+  rotate: false
+  xy: 2, 232
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1

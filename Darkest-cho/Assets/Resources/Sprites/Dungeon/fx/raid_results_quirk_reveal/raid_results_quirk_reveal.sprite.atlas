@@ -1,0 +1,62 @@
+
+raid_results_quirk_reveal.sprite.png
+size: 303,571
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+horizontal_glow
+  rotate: true
+  xy: 2, 93
+  size: 476, 89
+  orig: 476, 89
+  offset: 0, 0
+  index: -1
+primary_rays
+  rotate: false
+  xy: 93, 241
+  size: 161, 161
+  orig: 161, 161
+  offset: 0, 0
+  index: -1
+quirk_happy
+  rotate: false
+  xy: 253, 142
+  size: 48, 97
+  orig: 48, 97
+  offset: 0, 0
+  index: -1
+quirk_sad
+  rotate: false
+  xy: 242, 6
+  size: 48, 98
+  orig: 48, 98
+  offset: 0, 0
+  index: -1
+ring_glow
+  rotate: false
+  xy: 93, 404
+  size: 164, 165
+  orig: 164, 165
+  offset: 0, 0
+  index: -1
+secondary_rays
+  rotate: false
+  xy: 93, 118
+  size: 122, 121
+  orig: 122, 121
+  offset: 0, 0
+  index: -1
+split_glow
+  rotate: false
+  xy: 217, 106
+  size: 34, 133
+  orig: 34, 133
+  offset: 0, 0
+  index: -1
+vertical_glow
+  rotate: true
+  xy: 2, 2
+  size: 89, 238
+  orig: 89, 238
+  offset: 0, 0
+  index: -1

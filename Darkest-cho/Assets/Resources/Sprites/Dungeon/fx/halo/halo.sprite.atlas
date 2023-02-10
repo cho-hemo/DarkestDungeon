@@ -1,0 +1,160 @@
+
+halo.sprite.png
+size: 621,278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+afflicted_crown
+  rotate: true
+  xy: 2, 115
+  size: 161, 129
+  orig: 161, 129
+  offset: 0, 0
+  index: -1
+deaths_door_halo
+  rotate: false
+  xy: 2, 6
+  size: 132, 107
+  orig: 132, 107
+  offset: 0, 0
+  index: -1
+deaths_door_skull
+  rotate: true
+  xy: 489, 51
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+disease_bacteria
+  rotate: false
+  xy: 560, 24
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+disease_germs01
+  rotate: true
+  xy: 574, 89
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+disease_germs02
+  rotate: false
+  xy: 588, 226
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+disease_glow
+  rotate: true
+  xy: 501, 210
+  size: 66, 85
+  orig: 66, 85
+  offset: 0, 0
+  index: -1
+disease_halo
+  rotate: true
+  xy: 265, 138
+  size: 138, 116
+  orig: 138, 116
+  offset: 0, 0
+  index: -1
+heroic_glow01
+  rotate: false
+  xy: 371, 19
+  size: 116, 117
+  orig: 116, 117
+  offset: 0, 0
+  index: -1
+heroic_glow02
+  rotate: false
+  xy: 371, 19
+  size: 116, 117
+  orig: 116, 117
+  offset: 0, 0
+  index: -1
+heroic_halo
+  rotate: true
+  xy: 133, 136
+  size: 140, 130
+  orig: 140, 130
+  offset: 0, 0
+  index: -1
+quirk_glow
+  rotate: true
+  xy: 501, 142
+  size: 66, 85
+  orig: 66, 85
+  offset: 0, 0
+  index: -1
+quirk_halo
+  rotate: true
+  xy: 383, 138
+  size: 138, 116
+  orig: 138, 116
+  offset: 0, 0
+  index: -1
+quirk_happy
+  rotate: false
+  xy: 489, 2
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+quirk_sad
+  rotate: false
+  xy: 517, 2
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+stun_diamond
+  rotate: false
+  xy: 588, 139
+  size: 27, 65
+  orig: 27, 65
+  offset: 0, 0
+  index: -1
+stun_halo
+  rotate: true
+  xy: 262, 2
+  size: 132, 107
+  orig: 132, 107
+  offset: 0, 0
+  index: -1
+stun_shard01
+  rotate: true
+  xy: 545, 5
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+stun_shard02
+  rotate: true
+  xy: 588, 206
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+stun_shard03
+  rotate: true
+  xy: 573, 6
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+surprised_exclamation
+  rotate: true
+  xy: 501, 107
+  size: 33, 71
+  orig: 33, 71
+  offset: 0, 0
+  index: -1
+surprised_halo
+  rotate: true
+  xy: 136, 2
+  size: 132, 124
+  orig: 132, 124
+  offset: 0, 0
+  index: -1

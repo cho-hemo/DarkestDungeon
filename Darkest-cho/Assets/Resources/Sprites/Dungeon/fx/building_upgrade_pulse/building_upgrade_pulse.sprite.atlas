@@ -1,0 +1,20 @@
+
+building_upgrade_pulse.sprite.png
+size: 209,77
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bar_glow
+  rotate: false
+  xy: 2, 35
+  size: 130, 40
+  orig: 130, 40
+  offset: 0, 0
+  index: -1
+circle_glow
+  rotate: false
+  xy: 134, 2
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+town_event_militia_training.sprite.png
+size: 406,297
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+town_event
+  rotate: false
+  xy: 2, 2
+  size: 402, 293
+  orig: 402, 293
+  offset: 0, 0
+  index: -1

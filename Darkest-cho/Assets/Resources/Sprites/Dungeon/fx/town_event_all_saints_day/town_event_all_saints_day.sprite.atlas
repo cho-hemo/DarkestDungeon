@@ -1,0 +1,83 @@
+
+town_event_all_saints_day.sprite.png
+size: 494,308
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+candles
+  rotate: false
+  xy: 2, 2
+  size: 302, 304
+  orig: 302, 304
+  offset: 0, 0
+  index: -1
+flame01
+  rotate: false
+  xy: 446, 48
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+flame02
+  rotate: true
+  xy: 418, 255
+  size: 51, 74
+  orig: 51, 74
+  offset: 0, 0
+  index: -1
+flame03
+  rotate: false
+  xy: 418, 131
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+flame04
+  rotate: false
+  xy: 442, 89
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+flame05
+  rotate: false
+  xy: 402, 85
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+flame06
+  rotate: true
+  xy: 306, 18
+  size: 102, 94
+  orig: 102, 94
+  offset: 0, 0
+  index: -1
+flame07
+  rotate: false
+  xy: 418, 190
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+flame08
+  rotate: false
+  xy: 402, 40
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+left_banner
+  rotate: false
+  xy: 361, 130
+  size: 55, 176
+  orig: 55, 176
+  offset: 0, 0
+  index: -1
+right_banner
+  rotate: false
+  xy: 306, 122
+  size: 53, 184
+  orig: 53, 184
+  offset: 0, 0
+  index: -1

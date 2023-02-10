@@ -1,0 +1,55 @@
+
+town_guild_level01.sprite.png
+size: 1413,697
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 687, 39
+  size: 648, 656
+  orig: 648, 656
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 2, 2
+  size: 683, 693
+  orig: 683, 693
+  offset: 0, 0
+  index: -1
+light_first_floor
+  rotate: false
+  xy: 1337, 595
+  size: 74, 100
+  orig: 74, 100
+  offset: 0, 0
+  index: -1
+light_second_floor_far_left
+  rotate: false
+  xy: 1337, 521
+  size: 74, 72
+  orig: 74, 72
+  offset: 0, 0
+  index: -1
+light_second_floor_left
+  rotate: false
+  xy: 1337, 521
+  size: 74, 72
+  orig: 74, 72
+  offset: 0, 0
+  index: -1
+light_second_floor_far_right
+  rotate: false
+  xy: 1337, 447
+  size: 73, 72
+  orig: 73, 72
+  offset: 0, 0
+  index: -1
+light_second_floor_right
+  rotate: false
+  xy: 1337, 447
+  size: 73, 72
+  orig: 73, 72
+  offset: 0, 0
+  index: -1

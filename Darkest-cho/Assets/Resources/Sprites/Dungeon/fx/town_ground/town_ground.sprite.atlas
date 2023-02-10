@@ -1,0 +1,13 @@
+
+town_ground.sprite.png
+size: 3844,1672
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+idle
+  rotate: false
+  xy: 2, 2
+  size: 3840, 1668
+  orig: 3840, 1668
+  offset: 0, 0
+  index: -1

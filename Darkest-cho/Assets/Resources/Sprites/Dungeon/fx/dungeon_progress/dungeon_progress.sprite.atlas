@@ -1,0 +1,20 @@
+
+dungeon_progress.sprite.png
+size: 54,113
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 2, 57
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+sparkle
+  rotate: false
+  xy: 2, 2
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1

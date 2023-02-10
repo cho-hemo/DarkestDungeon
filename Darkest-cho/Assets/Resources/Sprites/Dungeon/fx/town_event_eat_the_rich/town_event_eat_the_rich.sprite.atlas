@@ -1,0 +1,13 @@
+
+town_event_eat_the_rich.sprite.png
+size: 279,435
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+town_event
+  rotate: false
+  xy: 2, 2
+  size: 275, 431
+  orig: 275, 431
+  offset: 0, 0
+  index: -1

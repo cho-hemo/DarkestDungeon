@@ -1,0 +1,104 @@
+
+interaction_curio.sprite.png
+size: 3377,711
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+afflicted_ball
+  rotate: false
+  xy: 2557, 298
+  size: 408, 411
+  orig: 408, 411
+  offset: 0, 0
+  index: -1
+afflicted_burst
+  rotate: false
+  xy: 1377, 95
+  size: 1178, 614
+  orig: 1178, 614
+  offset: 0, 0
+  index: -1
+afflicted_shard01
+  rotate: true
+  xy: 1527, 62
+  size: 31, 92
+  orig: 31, 92
+  offset: 0, 0
+  index: -1
+afflicted_shard02
+  rotate: true
+  xy: 1377, 62
+  size: 31, 148
+  orig: 31, 148
+  offset: 0, 0
+  index: -1
+afflicted_shard03
+  rotate: false
+  xy: 2695, 216
+  size: 31, 80
+  orig: 31, 80
+  offset: 0, 0
+  index: -1
+afflicted_shard04
+  rotate: true
+  xy: 1377, 27
+  size: 33, 112
+  orig: 33, 112
+  offset: 0, 0
+  index: -1
+afflicted_shard05
+  rotate: false
+  xy: 2625, 200
+  size: 33, 96
+  orig: 33, 96
+  offset: 0, 0
+  index: -1
+heroic_ball
+  rotate: false
+  xy: 2967, 298
+  size: 408, 411
+  orig: 408, 411
+  offset: 0, 0
+  index: -1
+heroic_burst
+  rotate: false
+  xy: 2, 2
+  size: 1373, 707
+  orig: 1373, 707
+  offset: 0, 0
+  index: -1
+heroic_shard01
+  rotate: true
+  xy: 1491, 29
+  size: 31, 92
+  orig: 31, 92
+  offset: 0, 0
+  index: -1
+heroic_shard02
+  rotate: false
+  xy: 2557, 148
+  size: 31, 148
+  orig: 31, 148
+  offset: 0, 0
+  index: -1
+heroic_shard03
+  rotate: true
+  xy: 1621, 62
+  size: 31, 80
+  orig: 31, 80
+  offset: 0, 0
+  index: -1
+heroic_shard04
+  rotate: false
+  xy: 2590, 184
+  size: 33, 112
+  orig: 33, 112
+  offset: 0, 0
+  index: -1
+heroic_shard05
+  rotate: false
+  xy: 2660, 200
+  size: 33, 96
+  orig: 33, 96
+  offset: 0, 0
+  index: -1

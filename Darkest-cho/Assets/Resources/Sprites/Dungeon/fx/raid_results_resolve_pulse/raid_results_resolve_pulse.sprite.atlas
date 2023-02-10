@@ -1,0 +1,20 @@
+
+raid_results_resolve_pulse.sprite.png
+size: 159,83
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 83, 7
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+rays
+  rotate: false
+  xy: 2, 2
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1

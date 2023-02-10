@@ -1,0 +1,13 @@
+
+town_event_tinkers_day.sprite.png
+size: 157,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+town_event
+  rotate: false
+  xy: 2, 2
+  size: 153, 250
+  orig: 153, 250
+  offset: 0, 0
+  index: -1

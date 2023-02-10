@@ -1,0 +1,27 @@
+
+town_event_cell_cleaning.sprite.png
+size: 350,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood
+  rotate: false
+  xy: 247, 109
+  size: 101, 61
+  orig: 101, 61
+  offset: 0, 0
+  index: -1
+bucket
+  rotate: false
+  xy: 247, 38
+  size: 89, 69
+  orig: 89, 69
+  offset: 0, 0
+  index: -1
+drain
+  rotate: true
+  xy: 2, 2
+  size: 168, 243
+  orig: 168, 243
+  offset: 0, 0
+  index: -1

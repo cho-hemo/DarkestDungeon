@@ -1,0 +1,13 @@
+
+town_event_new_shipment.sprite.png
+size: 625,241
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+town_event
+  rotate: false
+  xy: 2, 2
+  size: 621, 237
+  orig: 621, 237
+  offset: 0, 0
+  index: -1

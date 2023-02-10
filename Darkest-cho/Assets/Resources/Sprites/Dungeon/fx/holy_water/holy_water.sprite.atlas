@@ -1,0 +1,55 @@
+
+holy_water.sprite.png
+size: 1423,462
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bottle
+  rotate: true
+  xy: 830, 2
+  size: 107, 256
+  orig: 107, 256
+  offset: 0, 0
+  index: -1
+inner_glow
+  rotate: false
+  xy: 1180, 218
+  size: 241, 242
+  orig: 241, 242
+  offset: 0, 0
+  index: -1
+long_rays
+  rotate: false
+  xy: 2, 4
+  size: 456, 456
+  orig: 456, 456
+  offset: 0, 0
+  index: -1
+outer_glow
+  rotate: false
+  xy: 460, 89
+  size: 368, 371
+  orig: 368, 371
+  offset: 0, 0
+  index: -1
+short_rays
+  rotate: false
+  xy: 830, 111
+  size: 348, 349
+  orig: 348, 349
+  offset: 0, 0
+  index: -1
+splash
+  rotate: false
+  xy: 1180, 99
+  size: 144, 117
+  orig: 144, 117
+  offset: 0, 0
+  index: -1
+stopper
+  rotate: false
+  xy: 460, 31
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1

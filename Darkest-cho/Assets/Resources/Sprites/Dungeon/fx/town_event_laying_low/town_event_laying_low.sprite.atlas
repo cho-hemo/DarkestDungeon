@@ -1,0 +1,13 @@
+
+town_event_laying_low.sprite.png
+size: 105,221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+town_event
+  rotate: false
+  xy: 2, 2
+  size: 101, 217
+  orig: 101, 217
+  offset: 0, 0
+  index: -1

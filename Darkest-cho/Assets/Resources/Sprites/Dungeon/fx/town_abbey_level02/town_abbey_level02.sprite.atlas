@@ -1,0 +1,41 @@
+
+town_abbey_level02.sprite.png
+size: 2182,767
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: true
+  xy: 1049, 58
+  size: 707, 988
+  orig: 707, 988
+  offset: 0, 0
+  index: -1
+idle
+  rotate: true
+  xy: 2, 2
+  size: 763, 1045
+  orig: 763, 1045
+  offset: 0, 0
+  index: -1
+light_left
+  rotate: false
+  xy: 2039, 556
+  size: 141, 209
+  orig: 141, 209
+  offset: 0, 0
+  index: -1
+light_middle
+  rotate: false
+  xy: 2039, 276
+  size: 83, 137
+  orig: 83, 137
+  offset: 0, 0
+  index: -1
+light_top
+  rotate: false
+  xy: 2039, 415
+  size: 141, 139
+  orig: 141, 139
+  offset: 0, 0
+  index: -1

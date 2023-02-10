@@ -1,0 +1,20 @@
+
+town_event_mardi_gras.sprite.png
+size: 903,414
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 802, 316
+  size: 99, 96
+  orig: 99, 96
+  offset: 0, 0
+  index: -1
+town_event
+  rotate: false
+  xy: 2, 2
+  size: 798, 410
+  orig: 798, 410
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+estate_town_event.sprite.png
+size: 301,171
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bell
+  rotate: false
+  xy: 124, 8
+  size: 83, 161
+  orig: 83, 161
+  offset: 0, 0
+  index: -1
+clapper
+  rotate: true
+  xy: 209, 2
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+scroll_closed
+  rotate: true
+  xy: 209, 36
+  size: 133, 90
+  orig: 133, 90
+  offset: 0, 0
+  index: -1
+scroll_open
+  rotate: false
+  xy: 2, 19
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1

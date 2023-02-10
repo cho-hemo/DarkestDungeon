@@ -1,0 +1,55 @@
+
+formless_mutate.sprite.png
+size: 3257,534
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flesh_back
+  rotate: false
+  xy: 3049, 137
+  size: 206, 395
+  orig: 206, 395
+  offset: 0, 0
+  index: -1
+flesh_front
+  rotate: true
+  xy: 2706, 109
+  size: 423, 341
+  orig: 423, 341
+  offset: 0, 0
+  index: -1
+guard
+  rotate: true
+  xy: 2, 2
+  size: 530, 809
+  orig: 530, 809
+  offset: 0, 0
+  index: -1
+melee
+  rotate: true
+  xy: 813, 29
+  size: 503, 700
+  orig: 503, 700
+  offset: 0, 0
+  index: -1
+ranged
+  rotate: true
+  xy: 1515, 76
+  size: 456, 744
+  orig: 456, 744
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 1515, 11
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+weak
+  rotate: true
+  xy: 2261, 4
+  size: 528, 443
+  orig: 528, 443
+  offset: 0, 0
+  index: -1

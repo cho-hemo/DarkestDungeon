@@ -1,0 +1,20 @@
+
+town_blacksmith_locked.sprite.png
+size: 1458,794
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 737, 4
+  size: 719, 788
+  orig: 719, 788
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 2, 2
+  size: 733, 790
+  orig: 733, 790
+  offset: 0, 0
+  index: -1

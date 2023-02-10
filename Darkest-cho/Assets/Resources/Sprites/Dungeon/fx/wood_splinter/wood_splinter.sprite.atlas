@@ -1,0 +1,20 @@
+
+wood_splinter.sprite.png
+size: 261,785
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dust
+  rotate: false
+  xy: 2, 2
+  size: 252, 326
+  orig: 252, 326
+  offset: 0, 0
+  index: -1
+splinters
+  rotate: false
+  xy: 2, 330
+  size: 257, 453
+  orig: 257, 453
+  offset: 0, 0
+  index: -1

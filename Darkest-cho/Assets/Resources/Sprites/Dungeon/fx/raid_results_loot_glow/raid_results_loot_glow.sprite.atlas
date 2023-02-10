@@ -1,0 +1,76 @@
+
+raid_results_loot_glow.sprite.png
+size: 700,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+heirloom_glow
+  rotate: false
+  xy: 574, 136
+  size: 124, 126
+  orig: 124, 126
+  offset: 0, 0
+  index: -1
+heirloom_primary_rays
+  rotate: false
+  xy: 417, 107
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+heirloom_secondary_rays
+  rotate: false
+  xy: 255, 3
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+treasure_coin01
+  rotate: false
+  xy: 381, 2
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+treasure_coin02
+  rotate: false
+  xy: 354, 68
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+treasure_coin03
+  rotate: true
+  xy: 354, 2
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+treasure_coin04
+  rotate: true
+  xy: 574, 107
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+treasure_coin05
+  rotate: false
+  xy: 354, 35
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+treasure_primary_rays
+  rotate: false
+  xy: 2, 11
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+treasure_secondary_rays
+  rotate: false
+  xy: 255, 102
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1

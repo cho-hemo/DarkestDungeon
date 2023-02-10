@@ -1,0 +1,20 @@
+
+trinket_sparkle.sprite.png
+size: 38,42
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ancestral_sparkle
+  rotate: false
+  xy: 2, 22
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+boss_sparkle
+  rotate: false
+  xy: 2, 2
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+town_circus_level01.sprite.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow
+  rotate: true
+  xy: 360, 19
+  size: 195, 118
+  orig: 195, 118
+  offset: 0, 0
+  index: -1
+Helm
+  rotate: false
+  xy: 181, 65
+  size: 177, 149
+  orig: 177, 149
+  offset: 0, 0
+  index: -1
+Main
+  rotate: false
+  xy: 2, 2
+  size: 177, 212
+  orig: 177, 212
+  offset: 0, 0
+  index: -1

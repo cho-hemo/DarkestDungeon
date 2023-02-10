@@ -1,0 +1,118 @@
+
+quest_complete_crest.sprite.png
+size: 3780,1979
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aura
+  rotate: true
+  xy: 2597, 2
+  size: 848, 863
+  orig: 848, 863
+  offset: 0, 0
+  index: -1
+glow01
+  rotate: true
+  xy: 2597, 852
+  size: 1125, 1181
+  orig: 1125, 1181
+  offset: 0, 0
+  index: -1
+glow02
+  rotate: true
+  xy: 1468, 636
+  size: 1341, 1127
+  orig: 1341, 1127
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 808, 24
+  size: 237, 150
+  orig: 237, 150
+  offset: 0, 0
+  index: -1
+left_talon
+  rotate: true
+  xy: 1196, 63
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+left_wing
+  rotate: false
+  xy: 623, 176
+  size: 209, 311
+  orig: 209, 311
+  offset: 0, 0
+  index: -1
+right_talon
+  rotate: false
+  xy: 1047, 61
+  size: 147, 152
+  orig: 147, 152
+  offset: 0, 0
+  index: -1
+right_wing
+  rotate: false
+  xy: 408, 176
+  size: 213, 311
+  orig: 213, 311
+  offset: 0, 0
+  index: -1
+seal01
+  rotate: true
+  xy: 1042, 299
+  size: 100, 243
+  orig: 100, 243
+  offset: 0, 0
+  index: -1
+seal02
+  rotate: true
+  xy: 1042, 401
+  size: 86, 316
+  orig: 86, 316
+  offset: 0, 0
+  index: -1
+seal03
+  rotate: true
+  xy: 1042, 215
+  size: 82, 203
+  orig: 82, 203
+  offset: 0, 0
+  index: -1
+seal04
+  rotate: true
+  xy: 1247, 215
+  size: 82, 203
+  orig: 82, 203
+  offset: 0, 0
+  index: -1
+seal05
+  rotate: true
+  xy: 408, 80
+  size: 94, 398
+  orig: 94, 398
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 489
+  size: 1464, 1488
+  orig: 1464, 1488
+  offset: 0, 0
+  index: -1
+shield
+  rotate: false
+  xy: 2, 48
+  size: 404, 439
+  orig: 404, 439
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 834, 236
+  size: 206, 251
+  orig: 206, 251
+  offset: 0, 0
+  index: -1

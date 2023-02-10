@@ -1,0 +1,55 @@
+
+town_event_day_of_the_dead.sprite.png
+size: 721,627
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mist
+  rotate: false
+  xy: 2, 2
+  size: 575, 623
+  orig: 575, 623
+  offset: 0, 0
+  index: -1
+mote01
+  rotate: false
+  xy: 579, 219
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+mote02
+  rotate: false
+  xy: 579, 219
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+mote04
+  rotate: false
+  xy: 579, 219
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+mote03
+  rotate: false
+  xy: 579, 219
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+mote05
+  rotate: false
+  xy: 579, 219
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 579, 280
+  size: 345, 140
+  orig: 345, 140
+  offset: 0, 0
+  index: -1

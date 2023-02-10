@@ -1,0 +1,48 @@
+
+dog_treats.sprite.png
+size: 374,1082
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+crumbs
+  rotate: true
+  xy: 2, 2
+  size: 85, 147
+  orig: 85, 147
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 709
+  size: 370, 371
+  orig: 370, 371
+  offset: 0, 0
+  index: -1
+long_rays
+  rotate: false
+  xy: 2, 358
+  size: 348, 349
+  orig: 348, 349
+  offset: 0, 0
+  index: -1
+short_rays
+  rotate: false
+  xy: 2, 89
+  size: 266, 267
+  orig: 266, 267
+  offset: 0, 0
+  index: -1
+treat01
+  rotate: true
+  xy: 270, 232
+  size: 124, 86
+  orig: 124, 86
+  offset: 0, 0
+  index: -1
+treat02
+  rotate: true
+  xy: 270, 113
+  size: 117, 96
+  orig: 117, 96
+  offset: 0, 0
+  index: -1

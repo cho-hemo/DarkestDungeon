@@ -1,0 +1,69 @@
+
+bandage.sprite.png
+size: 853,493
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bandage01
+  rotate: true
+  xy: 487, 24
+  size: 251, 184
+  orig: 251, 184
+  offset: 0, 0
+  index: -1
+bandage02
+  rotate: true
+  xy: 487, 277
+  size: 214, 219
+  orig: 214, 219
+  offset: 0, 0
+  index: -1
+bandage03
+  rotate: true
+  xy: 673, 63
+  size: 212, 178
+  orig: 212, 178
+  offset: 0, 0
+  index: -1
+blood_drop01
+  rotate: true
+  xy: 487, 11
+  size: 11, 85
+  orig: 11, 85
+  offset: 0, 0
+  index: -1
+blood_drop02
+  rotate: true
+  xy: 487, 3
+  size: 6, 32
+  orig: 6, 32
+  offset: 0, 0
+  index: -1
+blood_drop03
+  rotate: true
+  xy: 574, 12
+  size: 10, 54
+  orig: 10, 54
+  offset: 0, 0
+  index: -1
+blood_patch01
+  rotate: true
+  xy: 673, 2
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+blood_patch02
+  rotate: false
+  xy: 708, 421
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 6
+  size: 485, 483
+  orig: 485, 483
+  offset: 0, 0
+  index: -1

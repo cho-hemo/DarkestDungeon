@@ -1,0 +1,104 @@
+
+estate_gold_pile.sprite.png
+size: 532,257
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin01
+  rotate: false
+  xy: 446, 96
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+coin02
+  rotate: false
+  xy: 253, 61
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+coin03
+  rotate: false
+  xy: 253, 2
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+coin04
+  rotate: false
+  xy: 253, 29
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+coin05
+  rotate: false
+  xy: 415, 96
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+gold
+  rotate: true
+  xy: 415, 129
+  size: 126, 115
+  orig: 126, 115
+  offset: 0, 0
+  index: -1
+primary_rays
+  rotate: false
+  xy: 2, 6
+  size: 249, 249
+  orig: 249, 249
+  offset: 0, 0
+  index: -1
+secondary_rays
+  rotate: false
+  xy: 253, 95
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+sparkle01
+  rotate: false
+  xy: 285, 74
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+sparkle02
+  rotate: false
+  xy: 306, 74
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+sparkle03
+  rotate: false
+  xy: 326, 74
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+sparkle04
+  rotate: false
+  xy: 493, 108
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+sparkle05
+  rotate: false
+  xy: 513, 109
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+sparkle06
+  rotate: false
+  xy: 472, 108
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1

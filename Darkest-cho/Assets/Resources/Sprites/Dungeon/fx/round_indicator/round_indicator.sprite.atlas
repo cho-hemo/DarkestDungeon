@@ -1,0 +1,27 @@
+
+round_indicator.sprite.png
+size: 281,121
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circle
+  rotate: false
+  xy: 218, 58
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+frame
+  rotate: true
+  xy: 114, 2
+  size: 117, 102
+  orig: 117, 102
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 9
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+town_guild_locked.sprite.png
+size: 1406,687
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 758, 29
+  size: 646, 656
+  orig: 646, 656
+  offset: 0, 0
+  index: -1
+idle
+  rotate: true
+  xy: 2, 2
+  size: 683, 754
+  orig: 683, 754
+  offset: 0, 0
+  index: -1

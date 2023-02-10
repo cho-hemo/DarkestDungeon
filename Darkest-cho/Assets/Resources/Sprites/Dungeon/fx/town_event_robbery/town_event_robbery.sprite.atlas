@@ -1,0 +1,27 @@
+
+town_event_robbery.sprite.png
+size: 630,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+left_guard
+  rotate: true
+  xy: 2, 38
+  size: 228, 282
+  orig: 228, 282
+  offset: 0, 0
+  index: -1
+report
+  rotate: true
+  xy: 286, 34
+  size: 232, 219
+  orig: 232, 219
+  offset: 0, 0
+  index: -1
+right_guard
+  rotate: false
+  xy: 507, 2
+  size: 121, 264
+  orig: 121, 264
+  offset: 0, 0
+  index: -1

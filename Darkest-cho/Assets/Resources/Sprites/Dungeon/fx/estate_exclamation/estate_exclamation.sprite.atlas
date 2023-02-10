@@ -1,0 +1,20 @@
+
+estate_exclamation.sprite.png
+size: 104,81
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+exclamation
+  rotate: false
+  xy: 78, 19
+  size: 24, 60
+  orig: 24, 60
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 2
+  size: 74, 77
+  orig: 74, 77
+  offset: 0, 0
+  index: -1

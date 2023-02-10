@@ -1,0 +1,13 @@
+
+town_event_busking.sprite.png
+size: 250,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+town_event
+  rotate: false
+  xy: 2, 2
+  size: 246, 280
+  orig: 246, 280
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+character_display_fleshlump.sprite.png
+size: 222,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+idle
+  rotate: false
+  xy: 2, 2
+  size: 218, 255
+  orig: 218, 255
+  offset: 0, 0
+  index: -1

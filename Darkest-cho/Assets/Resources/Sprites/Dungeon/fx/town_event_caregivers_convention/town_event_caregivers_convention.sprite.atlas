@@ -1,0 +1,13 @@
+
+town_event_caregivers_convention.sprite.png
+size: 295,474
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+town_event
+  rotate: false
+  xy: 2, 2
+  size: 291, 470
+  orig: 291, 470
+  offset: 0, 0
+  index: -1

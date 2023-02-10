@@ -1,0 +1,83 @@
+
+estate_settings.sprite.png
+size: 222,271
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+candles
+  rotate: false
+  xy: 116, 13
+  size: 95, 109
+  orig: 95, 109
+  offset: 0, 0
+  index: -1
+flame01
+  rotate: false
+  xy: 178, 128
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+flame02
+  rotate: false
+  xy: 182, 176
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+flame03
+  rotate: false
+  xy: 151, 130
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+flame04
+  rotate: false
+  xy: 151, 166
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 10
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+splatter
+  rotate: false
+  xy: 2, 124
+  size: 147, 145
+  orig: 147, 145
+  offset: 0, 0
+  index: -1
+wax
+  rotate: true
+  xy: 151, 213
+  size: 56, 69
+  orig: 56, 69
+  offset: 0, 0
+  index: -1
+wax_drip01
+  rotate: true
+  xy: 116, 2
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+wax_drip02
+  rotate: false
+  xy: 206, 187
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+wax_drip03
+  rotate: true
+  xy: 139, 2
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1

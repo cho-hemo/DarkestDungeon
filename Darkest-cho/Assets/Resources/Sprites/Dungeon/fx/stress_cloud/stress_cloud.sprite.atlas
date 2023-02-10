@@ -1,0 +1,20 @@
+
+stress_cloud.sprite.png
+size: 828,290
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+stress_cloud01
+  rotate: false
+  xy: 2, 2
+  size: 421, 286
+  orig: 421, 286
+  offset: 0, 0
+  index: -1
+stress_cloud02
+  rotate: false
+  xy: 425, 17
+  size: 401, 271
+  orig: 401, 271
+  offset: 0, 0
+  index: -1

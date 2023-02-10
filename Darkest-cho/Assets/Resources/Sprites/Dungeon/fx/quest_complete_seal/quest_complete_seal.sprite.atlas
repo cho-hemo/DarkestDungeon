@@ -1,0 +1,27 @@
+
+quest_complete_seal.sprite.png
+size: 695,326
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aura
+  rotate: true
+  xy: 2, 2
+  size: 322, 312
+  orig: 322, 312
+  offset: 0, 0
+  index: -1
+glow
+  rotate: true
+  xy: 316, 5
+  size: 319, 260
+  orig: 319, 260
+  offset: 0, 0
+  index: -1
+seals
+  rotate: false
+  xy: 578, 175
+  size: 115, 149
+  orig: 115, 149
+  offset: 0, 0
+  index: -1

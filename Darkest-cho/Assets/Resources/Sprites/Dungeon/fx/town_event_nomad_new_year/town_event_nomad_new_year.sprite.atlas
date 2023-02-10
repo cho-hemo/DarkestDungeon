@@ -1,0 +1,69 @@
+
+town_event_nomad_new_year.sprite.png
+size: 794,242
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flame01
+  rotate: true
+  xy: 693, 14
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+flame02
+  rotate: false
+  xy: 693, 108
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+flame03
+  rotate: true
+  xy: 693, 73
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+idol
+  rotate: false
+  xy: 516, 16
+  size: 175, 149
+  orig: 175, 149
+  offset: 0, 0
+  index: -1
+lute
+  rotate: true
+  xy: 246, 88
+  size: 152, 268
+  orig: 152, 268
+  offset: 0, 0
+  index: -1
+smoke01
+  rotate: true
+  xy: 516, 167
+  size: 73, 224
+  orig: 73, 224
+  offset: 0, 0
+  index: -1
+smoke02
+  rotate: true
+  xy: 246, 15
+  size: 71, 165
+  orig: 71, 165
+  offset: 0, 0
+  index: -1
+smoke03
+  rotate: false
+  xy: 742, 73
+  size: 50, 167
+  orig: 50, 167
+  offset: 0, 0
+  index: -1
+urns
+  rotate: true
+  xy: 2, 2
+  size: 238, 242
+  orig: 238, 242
+  offset: 0, 0
+  index: -1

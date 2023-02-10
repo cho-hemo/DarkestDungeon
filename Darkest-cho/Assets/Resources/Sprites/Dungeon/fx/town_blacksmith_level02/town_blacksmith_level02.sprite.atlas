@@ -1,0 +1,41 @@
+
+town_blacksmith_level02.sprite.png
+size: 1881,734
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: true
+  xy: 2, 2
+  size: 730, 779
+  orig: 730, 779
+  offset: 0, 0
+  index: -1
+idle
+  rotate: true
+  xy: 783, 21
+  size: 711, 794
+  orig: 711, 794
+  offset: 0, 0
+  index: -1
+light_door
+  rotate: false
+  xy: 1579, 58
+  size: 92, 114
+  orig: 92, 114
+  offset: 0, 0
+  index: -1
+light_first_floor
+  rotate: false
+  xy: 1579, 174
+  size: 173, 164
+  orig: 173, 164
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 1579, 340
+  size: 300, 392
+  orig: 300, 392
+  offset: 0, 0
+  index: -1

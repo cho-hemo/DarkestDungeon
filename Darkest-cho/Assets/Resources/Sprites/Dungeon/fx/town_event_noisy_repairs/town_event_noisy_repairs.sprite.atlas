@@ -1,0 +1,13 @@
+
+town_event_noisy_repairs.sprite.png
+size: 411,337
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+town_event
+  rotate: false
+  xy: 2, 2
+  size: 407, 333
+  orig: 407, 333
+  offset: 0, 0
+  index: -1

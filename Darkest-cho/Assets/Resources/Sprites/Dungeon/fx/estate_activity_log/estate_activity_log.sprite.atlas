@@ -1,0 +1,27 @@
+
+estate_activity_log.sprite.png
+size: 396,167
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scroll_closed
+  rotate: true
+  xy: 304, 62
+  size: 103, 90
+  orig: 103, 90
+  offset: 0, 0
+  index: -1
+scroll_open
+  rotate: false
+  xy: 166, 27
+  size: 136, 138
+  orig: 136, 138
+  offset: 0, 0
+  index: -1
+splatter
+  rotate: false
+  xy: 2, 2
+  size: 162, 163
+  orig: 162, 163
+  offset: 0, 0
+  index: -1

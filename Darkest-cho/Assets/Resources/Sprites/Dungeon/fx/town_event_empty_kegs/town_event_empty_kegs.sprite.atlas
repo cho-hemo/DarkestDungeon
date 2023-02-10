@@ -1,0 +1,13 @@
+
+town_event_empty_kegs.sprite.png
+size: 439,189
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+town_event
+  rotate: false
+  xy: 2, 2
+  size: 435, 185
+  orig: 435, 185
+  offset: 0, 0
+  index: -1

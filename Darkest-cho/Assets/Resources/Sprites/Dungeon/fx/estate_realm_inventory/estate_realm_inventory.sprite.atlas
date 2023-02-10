@@ -1,0 +1,90 @@
+
+estate_realm_inventory.sprite.png
+size: 500,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest_closed
+  rotate: true
+  xy: 288, 30
+  size: 126, 122
+  orig: 126, 122
+  offset: 0, 0
+  index: -1
+chest_open
+  rotate: false
+  xy: 149, 10
+  size: 137, 146
+  orig: 137, 146
+  offset: 0, 0
+  index: -1
+flash
+  rotate: true
+  xy: 412, 71
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 412, 39
+  size: 79, 30
+  orig: 79, 30
+  offset: 0, 0
+  index: -1
+gold
+  rotate: false
+  xy: 288, 2
+  size: 74, 26
+  orig: 74, 26
+  offset: 0, 0
+  index: -1
+sparkle01
+  rotate: false
+  xy: 364, 15
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+sparkle02
+  rotate: false
+  xy: 408, 16
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+sparkle03
+  rotate: false
+  xy: 408, 2
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+sparkle04
+  rotate: false
+  xy: 364, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+sparkle05
+  rotate: false
+  xy: 379, 15
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+sparkle06
+  rotate: true
+  xy: 394, 15
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+splatter
+  rotate: true
+  xy: 2, 9
+  size: 147, 145
+  orig: 147, 145
+  offset: 0, 0
+  index: -1

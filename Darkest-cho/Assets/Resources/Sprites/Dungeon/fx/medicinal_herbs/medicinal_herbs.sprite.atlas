@@ -1,0 +1,55 @@
+
+medicinal_herbs.sprite.png
+size: 1122,335
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+inner_glow
+  rotate: true
+  xy: 901, 42
+  size: 172, 113
+  orig: 172, 113
+  offset: 0, 0
+  index: -1
+mortar
+  rotate: false
+  xy: 901, 216
+  size: 169, 117
+  orig: 169, 117
+  offset: 0, 0
+  index: -1
+outer_glow
+  rotate: false
+  xy: 514, 2
+  size: 385, 331
+  orig: 385, 331
+  offset: 0, 0
+  index: -1
+pestle
+  rotate: false
+  xy: 1016, 30
+  size: 82, 90
+  orig: 82, 90
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: true
+  xy: 2, 23
+  size: 310, 510
+  orig: 310, 510
+  offset: 0, 0
+  index: -1
+sparks01
+  rotate: false
+  xy: 1016, 122
+  size: 56, 92
+  orig: 56, 92
+  offset: 0, 0
+  index: -1
+sparks02
+  rotate: false
+  xy: 1072, 221
+  size: 48, 112
+  orig: 48, 112
+  offset: 0, 0
+  index: -1

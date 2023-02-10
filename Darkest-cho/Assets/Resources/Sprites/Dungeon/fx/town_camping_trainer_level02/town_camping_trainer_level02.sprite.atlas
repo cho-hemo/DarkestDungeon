@@ -1,0 +1,62 @@
+
+town_camping_trainer_level02.sprite.png
+size: 1378,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 2, 2
+  size: 455, 263
+  orig: 455, 263
+  offset: 0, 0
+  index: -1
+flame01
+  rotate: false
+  xy: 1264, 32
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+flame02
+  rotate: false
+  xy: 1295, 116
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+flame03
+  rotate: false
+  xy: 1264, 70
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+flame04
+  rotate: false
+  xy: 1264, 106
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 1264, 153
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 459, 12
+  size: 438, 253
+  orig: 438, 253
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: true
+  xy: 899, 3
+  size: 262, 363
+  orig: 262, 363
+  offset: 0, 0
+  index: -1
